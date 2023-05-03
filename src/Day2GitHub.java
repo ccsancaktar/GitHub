@@ -16,5 +16,6 @@ public class Day2GitHub {
      */
     public static void main(String[] args) {
         System.out.println("Branch Deneme 1");
+        System.out.println("Master Deneme 1");
     }
 }
