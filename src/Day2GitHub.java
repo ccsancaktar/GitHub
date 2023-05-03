@@ -1,6 +1,4 @@
 public class Day2GitHub {
-    public static void main(String[] args) {
-
     /*
     1-) git init -> Local repo olusturmak icin, yani .git ile klasörün
     icindeki dosyalari iliskilendirmek icin kullanilir.
@@ -16,7 +14,7 @@ public class Day2GitHub {
     Not: git log --oneline commitlerimdeki yani versiyonlardaki durumu gösterir.
     5-) git pull --> Remote dosyalarimizi guncellemek icin kullanilir.
      */
-
-        System.out.println("GitHub da tamam!");
+    public static void main(String[] args) {
+        System.out.println("Branch Deneme 1");
     }
 }
